@@ -32,9 +32,9 @@ To help us process your input efficiently, please use the following categories w
 
 ### 📝 Before You Post
 
-1.  **Search First:** Please use the search bar within the Discussions tab to see if your question or issue has already been discussed.
-2.  **Be Specific:** When reporting a bug, include your operating system, software version, and detailed steps to reproduce the issue.
-3.  **Be Respectful:** Maintain a friendly and constructive tone in all conversations.
+1.  **Search First:** Please use the search bar within the Discussions tab to see if your question or issue has already been discussed.
+2.  **Be Specific:** When reporting a bug, include your operating system, software version, and detailed steps to reproduce the issue.
+3.  **Be Respectful:** Maintain a friendly and constructive tone in all conversations.
 
 ---
 
